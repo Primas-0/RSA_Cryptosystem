@@ -4,6 +4,15 @@
 using namespace std;
 
 int main() {
-    cout << "Hello, World!" << endl;
+    // Initialization and Declarations
+
+    // User Interaction and Input
+
+    // RSA Algorithm Execution
+    // Call functions from RSA.cpp or other files as needed
+
+    // Display Results
+
+    // Return Exit Status
     return 0;
 }
